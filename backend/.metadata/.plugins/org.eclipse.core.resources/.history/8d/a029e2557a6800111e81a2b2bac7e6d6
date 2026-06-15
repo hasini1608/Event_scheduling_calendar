@@ -1,0 +1,17 @@
+spring.application.name=coreservices-1
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/event_scheduler
+
+spring.datasource.username=postgres
+
+spring.datasource.password=Hasi123
+
+spring.jpa.hibernate.ddl-auto=update
+
+spring.jpa.show-sql=true
+
+server.port=8001
+
+spring.data.mongodb.uri=YOUR_MONGODB_CONNECTION_STRING
+
+spring.data.mongodb.database=event_scheduler

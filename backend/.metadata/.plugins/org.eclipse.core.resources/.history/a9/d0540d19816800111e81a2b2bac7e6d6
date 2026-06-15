@@ -1,0 +1,17 @@
+spring.application.name=coreservices-1
+
+spring.datasource.url=jdbc:postgresql://dpg-d8nnqn1o3t8c73d0dj8g-a.oregon-postgres.render.com:5432/test_9w60
+
+spring.datasource.username=postgres_user
+
+spring.datasource.password=hLO9Yqq2hkLqqdlRoV1jfkczqWe4Sobk
+
+spring.jpa.hibernate.ddl-auto=update
+
+spring.jpa.show-sql=true
+
+server.port=8001
+
+spring.data.mongodb.uri=YOUR_MONGODB_CONNECTION_STRING
+
+spring.data.mongodb.database=event_scheduler

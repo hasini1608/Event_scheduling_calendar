@@ -1,0 +1,15 @@
+1779709347414	Delete element
+1779709645783	Delete element
+1779714586804	Rename type 'RegistrationsService'
+1779715356699	Rename package 'com.eventscheduler.coreservices.services'
+1779715372054	Rename package 'com.eventscheduler.coreservices.security'
+1779715385804	Rename package 'com.eventscheduler.coreservices.repository'
+1779715401826	Rename package 'com.eventscheduler.coreservices.models'
+1779715416621	Rename package 'com.eventscheduler.coreservices.controllers'
+1779716002232	Rename package 'controllers'
+1779716032405	Delete element
+1779717769600	Delete element
+1779717779166	Delete element
+1779717785256	Delete element
+1779717839336	Delete element
+1779718570005	Rename compilation unit 'Regitrations.java'

@@ -1,0 +1,5 @@
+package com.eventscheduler.coreservices.exception;
+
+public class GlobalExceptionHandler {
+
+}

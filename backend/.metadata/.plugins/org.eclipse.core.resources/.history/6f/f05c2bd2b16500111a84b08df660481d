@@ -1,0 +1,5 @@
+package com.eventscheduler.coreservices.jwt;
+
+public class JwtFilter {
+
+}
